@@ -32,6 +32,7 @@ Open an issue to discuss what you would like to change.
 
 ## Contact
 roblox: https://www.roblox.com/users/1957038621/profile
+
 github: https://github.com/scripped
 
 ## Support me
