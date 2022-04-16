@@ -15,16 +15,15 @@ npm i roblox-banned-user-viewer
 ```
 
 ## Usage
-
+#### FOR IDs
 ```bash
-# FOR IDs
 view 1957038621
 
 [X] You entered a number, is this a URL (u) or an ID (i):
-
 # Here, you enter 'i' (no speech marks)
-#--------------------------------------------------------------
-# FOR Usernames
+```
+#### FOR USERNAMES
+```bash
 view username
 ```
 
