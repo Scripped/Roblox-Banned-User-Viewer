@@ -2,12 +2,38 @@
 See a banned user's profile, their friends, their favorite games, their followers etc.
 So, if you have been banned or your friend has been banned, you can see what your profile would have looked like.
 
+# Roblox Banned User Viewer
+#### AKA BanView
+See a banned user's profile, their friends, their favorite games, their followers etc.
 
-#WIP
+## Installation
 
-I'll show some pictures of what it looks like right now
+Use npm i roblox-banned-user-viewer
 
-<img src="1.JPG">
-<img src="2.JPG">
-<img src="3.JPG">
-<img src="friends.JPG">
+```bash
+npm i roblox-banned-user-viewer
+```
+
+## Usage
+
+```bash
+# FOR IDs
+view 1957038621
+
+[X] You entered a number, is this a URL (u) or an ID (i):
+
+# Here, you enter 'i' (no speech marks)
+#--------------------------------------------------------------
+# FOR Usernames
+view username
+```
+
+## Contributing
+Open an issue to discuss what you would like to change.
+
+## Contact
+roblox: https://www.roblox.com/users/1957038621/profile
+github: https://github.com/scripped
+
+## Support me
+purchase my donation gamepasses: https://www.roblox.com/users/1957038621/profile
