@@ -24,6 +24,9 @@ view 1957038621
 view username
 ```
 
+## Video:
+https://www.youtube.com/watch?v=hI_BkS_iOMM&t=6s
+
 ## Contributing
 Open an issue to discuss what you would like to change.
 
